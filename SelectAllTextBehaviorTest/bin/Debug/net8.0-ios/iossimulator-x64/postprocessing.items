@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SelectAllTextBehaviorTest.app/SelectAllTextBehaviorTest">
+      <BCSymbolMapName>SelectAllTextBehaviorTest.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SelectAllTextBehaviorTest.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>SelectAllTextBehaviorTest.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

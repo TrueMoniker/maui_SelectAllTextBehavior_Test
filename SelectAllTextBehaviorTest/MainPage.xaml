@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SelectAllTextBehaviorTest.MainPage"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:project2="clr-namespace:Project2;assembly=Project2">
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,0"
+            Spacing="25">
+            <!--<Entry Text="This is the starting text">
+                <Entry.Behaviors>
+                    <toolkit:SelectAllTextBehavior/>
+                </Entry.Behaviors>
+            </Entry>-->
+            <project2:MyControl ></project2:MyControl>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
+

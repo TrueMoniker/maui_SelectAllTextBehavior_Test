@@ -1,0 +1,6 @@
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.csproj.AssemblyReference.cache
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.AssemblyInfoInputs.cache
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.AssemblyInfo.cs
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.csproj.CoreCompileInputs.cache
+/Users/oke20850/Projects/maui-SelectAllTextBehaviorTest/SelectAllTextBehaviorTest/obj/Debug/net8.0/SelectAllTextBehaviorTest.sourcelink.json

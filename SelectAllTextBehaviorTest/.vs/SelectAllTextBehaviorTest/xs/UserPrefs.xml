@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{FD6EA41C-EB76-47BB-A457-F5F06D9F0051}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainPage.xaml">
+    <Files>
+      <File FileName="MainPage.xaml.cs" Line="9" Column="2" />
+      <File FileName="MainPage.xaml" Line="12" Column="38" />
+      <File FileName="SelectAllTextBehaviorTest.csproj" Line="4" Column="72" />
+      <File FileName="MauiProgram.cs" Line="28" Column="1" />
+      <File FileName="../../../.nuget/packages/communitytoolkit.maui/8.0.1/readme.txt" Line="18" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SelectAllTextBehaviorTest" expanded="True">
+            <Node name="SelectAllTextBehaviorTest">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EBA11C3D-3472-476C-A5B6-F0464126064F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.SelectAllTextBehaviorTest PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EBA11C3D-3472-476C-A5B6-F0464126064F" />
+</Properties>
